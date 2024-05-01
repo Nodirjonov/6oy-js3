@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 250px;
+    background-color: dodgerblue;
+    height: 300px;
+    width: 400px;
+    margin-left: 550px;
+}
+button{
+    background-color: cadetblue;
+    color: aquamarine;
+     border: none;
+     border-radius: 10px 0px 10px 0px;
+     margin: 15px;
+}
+input{
+    background-color: cadetblue;
+    color: aquamarine;
+     border: none;
+     border-radius: 10px 0px 10px 0px;
+     width: 120px;
+     height: 15px;
+}
+h1{
+    font-size: large;
+}
